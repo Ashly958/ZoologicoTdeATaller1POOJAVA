@@ -14,6 +14,7 @@ Este sistema busca simular el registro de los animales de un zoologico 🐆.
 2. Abre el proyecto en tu IDE  
 3. Ejecuta la clase `Main.java`
 
+## **Estructura de los archivos 📂**
 ```
 ├── Source Packages/
 │     ├── Usuario.java ← Clase base (superclase)
