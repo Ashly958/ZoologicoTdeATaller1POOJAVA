@@ -59,6 +59,8 @@ Mostrando registro de animal...
 Actualizando estado...
 ```
 
+[Descargar PDF](https://drive.google.com/file/d/1tj2PY3cEJog2ou4eQ0ym7p13qoREoU6J/view?usp=drive_link)
+
 # **Autor 🌸💻**
 Desarrollado por Ashly Nicole  
 Ingeniería de Software – 2025
